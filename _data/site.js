@@ -9,6 +9,11 @@ module.exports = {
             arialabel: "Sien die webblad in ander tale",
         },
         {
+            label: "български",
+            code: "bg",
+            arialabel: "Виж на други езици",
+        },
+        {
             label: "বাংলা",
             code: "bn",
             arialabel: "অন্যান্য ভাষায় দেখুন",
@@ -164,6 +169,11 @@ module.exports = {
             name: "Moritz Stückler",
             link: "https://github.com/pReya",
             lang: "de",
+        },
+        {
+            name: "Iliyan Tsvetkov",
+            link: "https://github.com/tusan-tsvetkoff",
+            lang: "bg",
         },
         {
             name: "Daniil Golubev",
